@@ -1,22 +1,25 @@
-### Olá, meu nome é Vitor Souza Muito prazer! 🤞
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<h2> Hi, I'm Vitor Souza! <img src="https://i.gifer.com/XOsX.gif" width="50"></h2>
+<img align='right' src="https://miro.medium.com/v2/resize:fit:600/1*PtBtw-ygDjcuzzOeIcU60w.gif" width="230">
+<p><em>Desenvolvedor de Software pela <a href="https://portal.uniasselvi.com.br">UNIASSELVI    </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Estudante de Programação com foco em Back-End com Java
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Linkedin: vitorsouzabf](https://img.shields.io/badge/-vitorsouzabf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorsouzabf/)](https://www.linkedin.com/in/vitorsouzabf/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/vitaep?label=follow&style=social)](https://github.com/vitaep)
 
 
-<h1 align="center">Olá 👋, eu sou Vitor Souza</h1>
-- 🔭 Sou um desenvolvedor com foco  em Java e Spring. </br>
-- 🌱 Atualmente estou aprendendo e me aprimorando em: Java, Spring e padrões de projeto.
- </br>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruangab&label=Profile%20views&color=b40e0e&style=flat" alt="ruangab" /> </p>
- -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruangab" alt="ruangab" /></a> </p>
- -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vitorsouzabf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-souza" height="30" width="40" /></a>
-</p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitaep&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vitaep" /></p>
+```javascript
+const vitor = {
+  pronouns: "he" | "his",
+  code: [Java],
+  tools: [Spring, Maven, PostgreSQL, Docker],
+  architecture: ["clean architecture", "arquitetura em camadas"],
+  challenge: "Estou tentando arrumar a minha primeira vaga no mercado de trabalho como desenvolvedor"
+}
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitaep&show_icons=true&theme=dark&locale=en" alt="vitaep" /></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu adoro estar em contato com outras pessoas! </b> então se você quiser me dizer um <b>Oi, eu estarei feliz em te conhecer mais!!</b> :)</em>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitaep&theme=dark" alt="vitaep" /></p>
+---
