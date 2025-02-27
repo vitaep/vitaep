@@ -12,7 +12,7 @@
 
 ```javascript
 const vitor = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Java],
   tools: [Spring, Maven, PostgreSQL, Docker],
   architecture: ["clean architecture", "arquitetura em camadas"],
