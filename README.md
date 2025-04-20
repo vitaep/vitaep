@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vitor Souza! <img src="https://i.gifer.com/XOsX.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/v2/resize:fit:600/1*PtBtw-ygDjcuzzOeIcU60w.gif" width="230">
-<p><em>Desenvolvedor de Software pela <a href="https://portal.uniasselvi.com.br">UNIASSELVI    </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Estudante de Programação com foco em Back-End com Java
+<p><em>Desenvolvedor de Software pela <a href="https://portal.uniasselvi.com.br">UNIASSELVI</br>Estudante de Programação com foco em Back-End com Java
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
