@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">- 💻Developer Full-Stack<br>- 🌱 Now studying Java, TypeScript and Next.JS<br>- 📖 PT-BR / ENG</h3>
+<h3 align="center">- 💻Developer Full-Stack<br>- 🌱 Working with TypeScript<br>- 📖 PT-BR / ENG</h3>
 
 ###
 
@@ -21,6 +21,12 @@
 ###
 
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=ts" height="75" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="75" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="75" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="75" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="75" alt="springboot logo"  />
@@ -29,13 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="75" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="75" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="75" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="75" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="75" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="75" alt="figma logo"  />
   <img width="12" />
